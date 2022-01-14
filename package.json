@@ -1,0 +1,17 @@
+{
+  "name": "levian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "levian.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord-autorole-badges": "^2.0.1",
+    "discord.js": "^13.5.1",
+  }
+}
